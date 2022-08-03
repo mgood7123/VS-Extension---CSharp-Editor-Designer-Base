@@ -1,0 +1,1 @@
+# VS Extension - CSharp Editor-Designer Base
